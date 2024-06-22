@@ -1,0 +1,2 @@
+This project aims to predict the most suitable crop based on various soil and environmental parameters such as nitrogen content, phosphorus content, potassium content, temperature, pH value, humidity, and rainfall. The Random Forest algorithm is employed to build the predictive model.
+![Screenshot (262)](https://github.com/ankitaj24/Crop-Prediction-using-ML/assets/86417055/ed5e4076-544c-4473-8f8f-bf52ee0f8b66)
